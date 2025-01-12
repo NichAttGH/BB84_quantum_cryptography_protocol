@@ -1,7 +1,7 @@
 # BB84 quantum cryptography protocol
 
 ## Description
-Simulated a scenario in which two robots (Alice and Bob) must exchange information securely in an environment where communication could be intercepted by a third agent (Eve). More details are in [Report](https://github.com/NichAttGH/BB84_quantum_cryptography_protocol/blob/main/Report_BB84.pdf)
+Simulated a scenario in which two robots (Alice and Bob) must exchange information securely in an environment where communication could be intercepted by a third agent (Eve). [Report](https://github.com/NichAttGH/BB84_quantum_cryptography_protocol/blob/main/Report_BB84.pdf) for more details.
 
 ## Tools used
 - IBM-Qiskit, an open-source software development kit for programming and quantum computing.
