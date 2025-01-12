@@ -1,4 +1,5 @@
 # BB84 Quantum Cryptography Protocol
+This is a project done for the undergraduate course “Introduction to Quantum Information and Computation for Robotics” at the University of Genova.
 
 ## Description
 Simulated a scenario in which two robots (Alice and Bob) must exchange information securely in an environment where communication could be intercepted by a third agent (Eve). [Report](https://github.com/NichAttGH/BB84_quantum_cryptography_protocol/blob/main/Report_BB84.pdf) for more details.
