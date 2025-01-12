@@ -1,7 +1,7 @@
 # BB84 quantum cryptography protocol
 
 ## Description
-BB84 quantum cryptography algorithm was implemented for the distribution of cryptographic keys in a hostile environment: specifically, simulation of secure information exchange between two robots (Alice and Bob) in an environment where communication could be intercepted by a third agent (Eve).
+Simulated a scenario in which two robots (Alice and Bob) must exchange information securely in an environment where communication could be intercepted by a third agent (Eve).
 
 ## Tools used
 - IBM-Qiskit, an open-source software development kit for programming and quantum computing.
